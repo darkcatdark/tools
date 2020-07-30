@@ -1,3 +1,7 @@
+# OS
+
+https://www.kali.org/
+
 # Windows un Aktīvā direktorija
 
 ## Powershell Scripti
