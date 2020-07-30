@@ -1,6 +1,15 @@
 # OS
 
-https://www.kali.org/
+## Pentest & General Security
+https://www.kali.org/ 
+
+https://blackarch.org/
+
+https://parrotlinux.org/
+
+## Forensics
+https://www.caine-live.net/
+
 
 # Windows un Aktīvā direktorija
 
