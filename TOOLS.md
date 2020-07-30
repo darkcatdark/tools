@@ -10,6 +10,16 @@ https://parrotlinux.org/
 ## Forensics
 https://www.caine-live.net/
 
+## Anon / Tor / Darknet
+https://www.digi77.com/linux-kodachi/
+
+https://tails.boum.org/index.en.html
+
+https://www.whonix.org/
+
+## SDR / Radio / GSM
+https://www.sigintos.com/
+
 
 # Windows un Aktīvā direktorija
 
