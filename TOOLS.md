@@ -20,6 +20,14 @@ https://www.whonix.org/
 ## SDR / Radio / GSM
 https://www.sigintos.com/
 
+## DFIR
+https://digital-forensics.sans.org/community/downloads
+
+https://tsurugi-linux.org/
+
+https://forensics.cert.org/#ADIA
+
+https://github.com/orlikoski/Skadi 
 
 # Windows un Aktīvā direktorija
 
