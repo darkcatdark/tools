@@ -7,8 +7,12 @@ https://blackarch.org/
 
 https://parrotlinux.org/
 
+https://github.com/fireeye/commando-vm - Windows !!!
+
+
 ## Forensics
 https://www.caine-live.net/
+
 
 ## Anon / Tor / Darknet
 https://www.digi77.com/linux-kodachi/
@@ -27,7 +31,9 @@ https://tsurugi-linux.org/
 
 https://forensics.cert.org/#ADIA
 
-https://github.com/orlikoski/Skadi 
+https://github.com/orlikoski/Skadi
+
+https://github.com/fireeye/flare-vm - Windows !!!
 
 # Windows un Aktīvā direktorija
 
