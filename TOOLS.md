@@ -1,6 +1,5 @@
 # OS
 
-## Pentest & General Security
 https://www.kali.org/ 
 
 https://blackarch.org/
